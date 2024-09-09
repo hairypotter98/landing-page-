@@ -1,0 +1,33 @@
+body{
+    background-color: #1F2937;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.links, .para{
+    display: flex;
+    color: #e5e7eb;
+    font-size: 18px;
+    gap: 15px;
+}
+
+.logo{
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.web{
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight:900;
+    margin-bottom: 0;
+}
+
+.para{
+    margin-top: 0;
+}
