@@ -1,5 +1,7 @@
+
 body{
     margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .main1{
     background-color: #1F2937;
@@ -36,6 +38,7 @@ body{
     color: #F9FAF8;
     font-size: 24px;
     font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .web{
@@ -72,8 +75,9 @@ footer{
 .info-head{
     color: #1f2937;
     font-weight: 900;
-    font-size: 36px;
+    font-size: 30px;
     text-align: center;
+    margin-bottom: 0;
 }
 
 .images, .caption{
@@ -87,13 +91,16 @@ footer{
     margin-top: 40px;
     border:#3883f6 solid 4px;
     border-radius: 10px;
-    margin: 50px;
-}
-
-.caption{
-    color: #7a7c7e;
+    margin: 20px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
 }
 
 .fix{
     display: block;
+}
+
+.new-text{
+    text-align: center;
+    color: #656570;
 }
