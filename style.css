@@ -1,4 +1,6 @@
-
+*{
+    outline: 1px solid red;
+}
 body{
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -83,6 +85,7 @@ footer{
 .images, .caption{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     
 }
 .square{
