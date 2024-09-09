@@ -1,6 +1,4 @@
-*{
-    outline: 1px solid red;
-}
+
 body{
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -127,4 +125,25 @@ footer{
 
 .source{
     text-align: right;
+}
+
+.sigma{
+    background-color:#3883f6;
+    height: 150px;
+    width: 800px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.sign{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.signup{
+    border: white 2px solid;
+    background-color: #3883f6;
+    color: white;
+    border-radius: 5px;
 }
