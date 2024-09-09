@@ -31,3 +31,16 @@ body{
 .para{
     margin-top: 0;
 }
+
+footer{
+    color: #e5e7eb;
+    font-size: 18px;
+    gap: 15px;
+}
+
+.butt{
+    background-color: #3883f6;
+    color: #f9faf8;
+    border-radius: 8px;
+    padding: 8px 30px;
+}
