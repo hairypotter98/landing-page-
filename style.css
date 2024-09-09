@@ -27,7 +27,7 @@ body{
 }
 .links, .para{
     display: flex;
-    color: #e5e7eb;
+    color: #a9abae;
     font-size: 18px;
     gap: 15px;
 }
@@ -76,16 +76,24 @@ footer{
     text-align: center;
 }
 
-.images{
+.images, .caption{
     display: flex;
-    margin-top: 40px;
     justify-content: center;
     
 }
 .square{
     height: 150px;
     width: 150px;
+    margin-top: 40px;
     border:#3883f6 solid 4px;
     border-radius: 10px;
     margin: 50px;
+}
+
+.caption{
+    color: #7a7c7e;
+}
+
+.fix{
+    display: block;
 }
