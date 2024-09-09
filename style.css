@@ -1,4 +1,7 @@
 body{
+    margin: 0;
+}
+.main1{
     background-color: #1F2937;
     
 }
@@ -7,7 +10,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    
+    padding: 30px;
 }
 
 .main1{
@@ -15,9 +18,12 @@ body{
 }
 .lig{
     margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .image-main{
     display: flex;
+    justify-content: space-between;
 }
 .links, .para{
     display: flex;
@@ -61,4 +67,25 @@ footer{
     width: 650px;
     height: 400px;
     
+}
+
+.info-head{
+    color: #1f2937;
+    font-weight: 900;
+    font-size: 36px;
+    text-align: center;
+}
+
+.images{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    
+}
+.square{
+    height: 150px;
+    width: 150px;
+    border:#3883f6 solid 4px;
+    border-radius: 10px;
+    margin: 50px;
 }
