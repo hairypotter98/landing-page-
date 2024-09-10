@@ -181,3 +181,10 @@ footer{
     width: inherit;
     height: inherit;
 }
+
+.quote{
+    background-image: url("https://images.pexels.com/photos/414659/pexels-photo-414659.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
