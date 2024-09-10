@@ -6,31 +6,25 @@ body{
 }
 .main1{
     background-color: #1F2937;
-    display: flex;
-    justify-content: center;
 }
 
 .main-text{
     max-width: 600px;
 }
 
+.alig{
+    margin-bottom: 100px;
+}
+
 .head{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: baseline;
     padding-bottom: 30px;
 }
-
-.main1{
-    flex-wrap: wrap;
-}
-.alig{
-    display: flex;
-    justify-content: space-between;
-}
 .image-main{
     display: flex;
-    justify-content: space-between;
+    justify-content:center;
     flex-wrap: wrap;
 }
 .links, .para{
