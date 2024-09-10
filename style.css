@@ -9,6 +9,10 @@ body{
     
 }
 
+.main-text{
+    max-width: 600px;
+}
+
 .head{
     display: flex;
     justify-content: space-between;
@@ -27,6 +31,7 @@ body{
 .image-main{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .links, .para{
     display: flex;
@@ -69,7 +74,7 @@ footer{
 
 .boomer{
     width: 650px;
-    height: 400px;
+    height: auto;
     
 }
 
