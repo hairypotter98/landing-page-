@@ -1,4 +1,5 @@
 
+
 body{
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -128,11 +129,14 @@ footer{
 }
 
 .sigma{
+    display: flex;
     background-color:#3883f6;
     height: 150px;
     width: 800px;
     border-radius: 10px;
     display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .sign{
@@ -146,4 +150,25 @@ footer{
     background-color: #3883f6;
     color: white;
     border-radius: 5px;
+    font-weight: bold;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+.action{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sign{
+    margin: 100px;
+}
+
+
+.foot{
+    background-color: #1F2937;
+    padding: 50px;
+    text-align: center;
 }
