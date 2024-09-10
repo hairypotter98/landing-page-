@@ -176,3 +176,8 @@ footer{
     padding-left: 10px;
     padding-right: 10px;
 }
+
+.some{
+    width: inherit;
+    height: inherit;
+}
