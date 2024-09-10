@@ -154,6 +154,7 @@ footer{
     font-weight: bold;
     width: 100px;
     height: 35px;
+    margin-right: 10px;
 }
 
 .action{
@@ -192,4 +193,8 @@ footer{
 mark{
     background-color: #acc6ee;
     opacity: 50%;
+}
+
+.veryn{
+    padding-left: 10px;
 }
