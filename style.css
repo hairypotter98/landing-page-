@@ -64,11 +64,13 @@ footer{
     color: #f9faf8;
     border-radius: 8px;
     padding: 8px 30px;
+    margin-bottom: 50px;
 }
 
 .boomer{
     width: 650px;
     height: auto;
+    padding-bottom: 50px;
     
 }
 
