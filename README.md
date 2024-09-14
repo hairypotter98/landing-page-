@@ -1,10 +1,5 @@
 # landing-page-
 
 This is an Assignment for The Odin Project.
-This website is still in inital stages.
-NeverMind.
-
-The sign-up button you see below the heading text, is named as "butt" in html.
-
-What do you call fake spaghetti? An impasta.
-LOL!
+This is the 1.0 version of this website.
+Lot of changes will be made to this website to make it look even better.
