@@ -126,7 +126,7 @@ footer{
 }
 
 .source{
-    text-align: right;
+    width: fit-content;
 }
 
 .sigma{
@@ -190,10 +190,12 @@ footer{
     color:#1F2937;
 }
 
-mark{
-    background-color: #acc6ee;
-    opacity: 50%;
+#news, .source{
+    background-color: #b7c0cd;
+    opacity: 0.5;
 }
+
+
 
 .veryn{
     padding-left: 10px;
